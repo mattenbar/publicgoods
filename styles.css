@@ -35,6 +35,14 @@
   padding-right: 5%;
 }
 
+.shop-now{
+  padding: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /* Clear floats after image containers */
 .row::after {
   content: "";
